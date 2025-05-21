@@ -3,5 +3,3 @@
 </p>
 
 (this template was generously shared by [Inokinoki](https://github.com/Inokinoki)!)
-
-[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/popi_tech)
